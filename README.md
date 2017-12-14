@@ -3,3 +3,5 @@
 阿里云官方帮助文档-短信发送API(SendSms)---PHP：https://help.aliyun.com/document_detail/55451.html
 
 阿里云官方帮助文档-SDK及DEMO下载：https://help.aliyun.com/document_detail/55359.html
+
+阿里云官方帮助文档-HTTP协议及签名：https://help.aliyun.com/document_detail/56189.html
